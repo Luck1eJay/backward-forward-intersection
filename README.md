@@ -1,6 +1,3 @@
-# backward-forward-intersection
- backward-forward intersection  
- input yourinternally oriented elements in parameters.py  
- backward intersection for backward.py  
- forward intersection for forward.py  
- input your GCPS in main.py  
+# 后方-前方交会
+内定向元素在parameter.py修改  
+打开main.py输入或修改刺点坐标以及GCPS并运行得到外方位元素与前方交会的地面坐标
